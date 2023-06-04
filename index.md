@@ -15,3 +15,6 @@ else:
     total = h * r
     print(total)
  ```
+- [x] Use List syntax
+- [x] This item is complete
+- [ ] This item is not complete
